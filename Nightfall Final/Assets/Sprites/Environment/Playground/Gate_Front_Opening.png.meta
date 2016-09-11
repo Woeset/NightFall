@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: abf8d8ff2eed46f4c96e0bc2b85a903e
+timeCreated: 1470068272
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Gate_Front_Opening_0
+    21300002: Gate_Front_Opening_1
+    21300004: Gate_Front_Opening_2
+    21300006: Gate_Front_Opening_3
+    21300008: Gate_Front_Opening_4
+    21300010: Gate_Front_Opening_5
+    21300012: Gate_Front_Opening_6
+    21300014: Gate_Front_Opening_7
+    21300016: Gate_Front_Opening_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Gate_Front_Opening_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 139}
+        - {x: 53, y: 113}
+        - {x: 31, y: 128}
+        - {x: 13, y: 135}
+        - {x: -6, y: 143}
+        - {x: -20, y: 143}
+        - {x: -20, y: -109}
+        - {x: -18, y: -112}
+        - {x: 94, y: -168}
+        - {x: 108, y: -182}
+        - {x: 114, y: -182}
+        - {x: 114, y: 127}
+        - {x: 91, y: 122}
+    - name: Gate_Front_Opening_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.5, y: -182}
+        - {x: -110.5, y: -182}
+        - {x: -110.5, y: 125}
+        - {x: -112.5, y: 127}
+        - {x: -113.5, y: 127}
+      - - {x: 66.5, y: 143}
+        - {x: 18.5, y: 136}
+        - {x: -2.5, y: 143}
+        - {x: -12.5, y: 143}
+        - {x: -13.5, y: 140}
+        - {x: -13.5, y: -109}
+        - {x: -11.5, y: -113}
+        - {x: 101.5, y: -174}
+        - {x: 106.5, y: -182}
+        - {x: 114.5, y: -182}
+        - {x: 114.5, y: 127}
+    - name: Gate_Front_Opening_2
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 140}
+        - {x: 60, y: 112}
+        - {x: 30, y: 134}
+        - {x: 4, y: 143}
+        - {x: -1, y: 143}
+        - {x: -3, y: 141}
+        - {x: -3, y: -107}
+        - {x: 68, y: -154}
+        - {x: 107, y: -182}
+        - {x: 114, y: -182}
+        - {x: 114, y: 127}
+        - {x: 90, y: 126}
+      - - {x: -114, y: -7}
+        - {x: -111, y: -6}
+        - {x: -111, y: 48}
+        - {x: -113, y: 50}
+        - {x: -114, y: 50}
+    - name: Gate_Front_Opening_3
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.5, y: -182}
+        - {x: -110.5, y: -182}
+        - {x: -110.5, y: 125}
+        - {x: -112.5, y: 127}
+        - {x: -113.5, y: 127}
+      - - {x: 69.5, y: 137}
+        - {x: 45.5, y: 129}
+        - {x: 22.5, y: 143}
+        - {x: 11.5, y: 143}
+        - {x: 11.5, y: -112}
+        - {x: 103.5, y: -182}
+        - {x: 114.5, y: -182}
+        - {x: 114.5, y: 128}
+        - {x: 94.5, y: 126}
+    - name: Gate_Front_Opening_4
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 143}
+        - {x: 35, y: -112}
+        - {x: 71, y: -157}
+        - {x: 106, y: -182}
+        - {x: 114, y: -182}
+        - {x: 114, y: 131}
+        - {x: 70, y: 143}
+      - - {x: -114, y: -7}
+        - {x: -111, y: -6}
+        - {x: -111, y: 48}
+        - {x: -113, y: 50}
+        - {x: -114, y: 50}
+    - name: Gate_Front_Opening_5
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 0
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -112.5, y: 127}
+        - {x: -113.5, y: 127}
+        - {x: -113.5, y: -182}
+        - {x: -110.5, y: -182}
+        - {x: -109.5, y: -86}
+        - {x: -109.5, y: 126}
+      - - {x: 92.5, y: 120}
+        - {x: 82.5, y: 116}
+        - {x: 76.5, y: 133}
+        - {x: 74.5, y: 135}
+        - {x: 62.5, y: 142}
+        - {x: 56.5, y: 142}
+        - {x: 56.5, y: -123}
+        - {x: 66.5, y: -154}
+        - {x: 103.5, y: -182}
+        - {x: 114.5, y: -182}
+        - {x: 114.5, y: 127}
+        - {x: 112.5, y: 127}
+    - name: Gate_Front_Opening_6
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 0
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -114, y: -182}
+        - {x: -111, y: -182}
+        - {x: -111, y: 125}
+        - {x: -113, y: 127}
+        - {x: -114, y: 127}
+      - - {x: 67, y: 141}
+        - {x: 67, y: -162}
+        - {x: 103, y: -182}
+        - {x: 114, y: -182}
+        - {x: 114, y: 127}
+        - {x: 84, y: 141}
+    - name: Gate_Front_Opening_7
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 0
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.5, y: 127}
+        - {x: -113.5, y: -182}
+        - {x: -109.5, y: -182}
+        - {x: -109.5, y: 127}
+      - - {x: 82.5, y: 143}
+        - {x: 72.5, y: 138}
+        - {x: 72.5, y: -157}
+        - {x: 108.5, y: -182}
+        - {x: 114.5, y: -182}
+        - {x: 114.5, y: 130}
+        - {x: 99.5, y: 143}
+    - name: Gate_Front_Opening_8
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 450
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -114, y: -182}
+        - {x: -111, y: -182}
+        - {x: -111, y: 125}
+        - {x: -113, y: 127}
+        - {x: -114, y: 127}
+      - - {x: 71, y: 134}
+        - {x: 71, y: -156}
+        - {x: 106, y: -181}
+        - {x: 108, y: -182}
+        - {x: 114, y: -182}
+        - {x: 114, y: 143}
+        - {x: 98, y: 143}
+        - {x: 72, y: 139}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

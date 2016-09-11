@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: b7a53d406a852cb48b1a7c366d055f4b
+timeCreated: 1469908492
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Spider_run_0
+    21300002: Spider_run_1
+    21300004: Spider_run_2
+    21300006: Spider_run_3
+    21300008: Spider_run_4
+    21300010: Spider_run_5
+    21300012: Spider_run_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Spider_run_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -12, y: 9}
+        - {x: -10, y: -1}
+        - {x: -10, y: -17}
+        - {x: -9, y: -21}
+        - {x: -10, y: -16}
+        - {x: -15, y: 12}
+        - {x: -55, y: 12}
+        - {x: -146, y: -39}
+        - {x: -146, y: -73}
+        - {x: 113, y: -73}
+        - {x: 113, y: -37}
+        - {x: 87, y: 12}
+    - name: Spider_run_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79, y: -58}
+        - {x: 138, y: -54}
+        - {x: 138, y: -27}
+        - {x: 136, y: -18}
+        - {x: 79, y: 15}
+        - {x: -39, y: 15}
+        - {x: -143, y: -32}
+        - {x: -143, y: -58}
+        - {x: -115, y: -73}
+        - {x: 79, y: -73}
+    - name: Spider_run_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: -62}
+        - {x: 115, y: -59}
+        - {x: 115, y: -56}
+        - {x: 144, y: -62}
+        - {x: 146, y: -62}
+        - {x: 146, y: -54}
+        - {x: 144, y: -51}
+        - {x: 118, y: -34}
+        - {x: 79, y: 8}
+        - {x: 64, y: 10}
+        - {x: -83, y: 10}
+        - {x: -131, y: -57}
+        - {x: -131, y: -73}
+        - {x: 70, y: -73}
+        - {x: 78, y: -66}
+        - {x: 77, y: -58}
+        - {x: 109, y: -62}
+    - name: Spider_run_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 146, y: -73}
+        - {x: 146, y: -66}
+        - {x: 134, y: -56}
+        - {x: 95, y: -25}
+        - {x: 133, y: -53}
+        - {x: 141, y: -52}
+        - {x: 127, y: -9}
+        - {x: 75, y: 12}
+        - {x: -67, y: 12}
+        - {x: -146, y: -64}
+        - {x: -146, y: -73}
+        - {x: -135, y: -73}
+        - {x: -91, y: -61}
+        - {x: -85, y: -49}
+        - {x: -64, y: -73}
+      - - {x: -146, y: -54}
+        - {x: -146, y: -62}
+        - {x: -144, y: -62}
+        - {x: -142, y: -60}
+        - {x: -142, y: -57}
+        - {x: -145, y: -54}
+    - name: Spider_run_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 12}
+        - {x: -48, y: 12}
+        - {x: -136, y: -36}
+        - {x: -141, y: -48}
+        - {x: -141, y: -57}
+        - {x: -140, y: -59}
+        - {x: -101, y: -39}
+        - {x: -87, y: -31}
+        - {x: -85, y: -65}
+        - {x: -85, y: -73}
+        - {x: 146, y: -73}
+        - {x: 146, y: -51}
+        - {x: 91, y: -7}
+    - name: Spider_run_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 146, y: -63}
+        - {x: 65, y: 15}
+        - {x: -89, y: 15}
+        - {x: -120, y: -22}
+        - {x: -120, y: -73}
+        - {x: 146, y: -73}
+      - - {x: -146, y: -54}
+        - {x: -146, y: -62}
+        - {x: -143, y: -62}
+        - {x: -141, y: -60}
+        - {x: -141, y: -57}
+        - {x: -144, y: -54}
+    - name: Spider_run_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146, y: -73}
+        - {x: -143, y: -73}
+        - {x: -143, y: -69}
+        - {x: -145, y: -67}
+        - {x: -146, y: -67}
+      - - {x: -85, y: -53}
+        - {x: -51, y: -73}
+        - {x: 14, y: -73}
+        - {x: 20, y: -70}
+        - {x: 23, y: -73}
+        - {x: 124, y: -73}
+        - {x: 124, y: -54}
+        - {x: 94, y: -9}
+        - {x: 71, y: 2}
+        - {x: 46, y: 6}
+        - {x: 18, y: 2}
+        - {x: 9, y: -18}
+        - {x: 9, y: -26}
+        - {x: 8, y: -27}
+        - {x: 9, y: -19}
+        - {x: 9, y: -15}
+        - {x: 4, y: 12}
+        - {x: -69, y: 12}
+        - {x: -122, y: -50}
+        - {x: -129, y: -68}
+        - {x: -129, y: -73}
+        - {x: -121, y: -73}
+        - {x: -107, y: -58}
+        - {x: -93, y: -60}
+        - {x: -90, y: -59}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
